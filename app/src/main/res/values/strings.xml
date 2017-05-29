@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SDacademyAplikacja</string>
+    <string name="user_login">User LogIn</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sing_in">Sing In</string>
+    <string name="not_have_an_account_create_here">Not have an account? Create here..</string>
+    <string name="register_user">Register User</string>
+    <string name="enter_you_email">Enter you email</string>
+    <string name="already_registered_please_signin">Already registered? Please SignIn</string>
+    <string name="splash_screen">SPLASH SCREEN</string>
+</resources>
